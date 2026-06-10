@@ -87,17 +87,16 @@ The initial version includes:
 
 Frontend:
 - Bootstrap 5 / React (preferred)
-- Tailwind optional alternative
 
 Backend:
-- Node.js (Express / NestJS)
+- Java's Spring Boot
 - PostgreSQL
 
 Payments:
 - Paystack / Flutterwave (Nigeria-first recurring billing support)
 
 Storage:
-- AWS S3 or Cloudinary (media uploads)
+- AWS S3 or Cloudinary or Google Drive (media uploads)
 
 Auth:
 - JWT / Firebase Auth (optional)
